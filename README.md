@@ -14,6 +14,9 @@ El proyecto "Análisis y Optimización de Estrategias en el Mercado de Cursos On
 
 # <h2 align='left'> 2. Roadmap</h2>
 
+![RoadMap](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/35815dd9-af58-42e2-8f69-524784183f62)
+
+
 En esta Parte mostraremos el  roadmap  que proporciona una visión general del proyecto, permitiendo a los miembros del equipo y a las partes interesadas comprender el plan general, identificar las tareas prioritarias y coordinar los esfuerzos. También nos ayudará a mantener el enfoque en los objetivos del proyecto y facilitará la toma de decisiones estratégicas.
 
 ## Roadmap del Proyecto:
