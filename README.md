@@ -22,43 +22,43 @@ En esta Parte mostraremos el  roadmap  que proporciona una visión general del p
 Comprender los datos adquiridos de los competidores y establecer los objetivos del proyecto.
 Identificar las métricas clave y los KPIs relevantes para evaluar el desempeño de la plataforma de cursos online.
 
-## 2.2 Recopilación y Exploración de Datos:
+### 2.2 Recopilación y Exploración de Datos:
 Adquirir y procesar los datasets de los competidores.
 Realizar un análisis exploratorio de los datos para comprender su estructura, calidad y distribución.
 Documentar los pasos y conclusiones en un notebook, utilizando celdas Markdown para mayor claridad.
 
-## 2.3 Análisis de Variables Relevantes:
+### 2.3 Análisis de Variables Relevantes:
 Analizar el impacto de variables como precio, idioma, nivel y rating de los cursos en las ventas.
 Utilizar visualizaciones y análisis estadísticos para identificar patrones y tendencias en la demanda de los cursos.
 
-## 2.4 Segmentación de Ventas:
+### 2.4 Segmentación de Ventas:
 Segmentar las ventas en función de las variables relevantes.
 Identificar grupos o segmentos de clientes con características y comportamientos similares.
 Analizar las preferencias y necesidades de cada segmento para personalizar las ofertas de cursos y contenido.
 
-## 2.5 Creación del Word Cloud:
+### 2.5 Creación del Word Cloud:
 Generar un Word Cloud basado en las palabras clave más frecuentes en los títulos de los cursos.
 Identificar las temáticas más populares y relevantes en el mercado de cursos online.
 
-## 2.6 Definición y Análisis de KPIs:
+### 2.6 Definición y Análisis de KPIs:
 Calcular la tasa de conversión de inscriptos gratuitos a inscriptos pagados utilizando los datos de Udemy y otros datasets complementarios.
 Sugerir otros tres KPIs relevantes relacionados con la historia del proyecto.
 Diseñar visualizaciones y análisis para monitorear y evaluar el rendimiento de la plataforma.
 
-## 2.7 Desarrollo del Dashboard Interactivo:
+### 2.7 Desarrollo del Dashboard Interactivo:
 Utilizar una herramienta de visualización de datos (por ejemplo, Power BI) para crear un dashboard interactivo.
 Incluir filtros y opciones de selección para explorar los datos en detalle.
 Presentar de manera clara y efectiva los resultados del análisis, el Word Cloud y los KPIs sugeridos.
 
-## 2.8 Optimización de Estrategias:
+### 2.8 Optimización de Estrategias:
 Utilizar los insights obtenidos del análisis y las conclusiones para mejorar las estrategias de la plataforma.
 Proporcionar recomendaciones basadas en los hallazgos para captar y retener a más clientes en un mercado competitivo.
 
-## 2.9 Creación de Repositorio de GitHub:
+### 2.9 Creación de Repositorio de GitHub:
 Configurar un repositorio en GitHub con una estructura adecuada.
 Documentar el proyecto en un Readme principal que incluya una descripción general, el contenido de cada archivo/carpeta y un informe de análisis basado en los dashboards y KPIs.
 
-## 2.10 Presentación y Demostración:
+### 2.10 Presentación y Demostración:
 Preparar una presentación concisa que muestre el dashboard, los análisis realizados y las conclusiones obtenidas.
 Destacar el valor y la relevancia de los KPIs propuestos para la plataforma.
 Demostrar las funcionalidades del dashboard y explicar los hallazgos clave a través de visualizaciones interactivas.
