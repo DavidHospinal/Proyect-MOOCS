@@ -95,23 +95,23 @@ En un mercado altamente competitivo de cursos online, la startup de tecnología 
  
 El stack tecnológico para el proyecto incluye las siguientes herramientas y tecnologías:
  
-Python: Se utilizará Python como lenguaje de programación principal debido a su versatilidad y amplio soporte para análisis de datos.
+-Python: Se utilizará Python como lenguaje de programación principal debido a su versatilidad y amplio soporte para análisis de datos.
 
-Jupyter Notebook/Google Colab: Se emplearán entornos de desarrollo como Jupyter Notebook o JupyterLab para realizar el análisis exploratorio de datos, documentar los pasos y visualizar los resultados de manera interactiva.
+-Jupyter Notebook/Google Colab: Se emplearán entornos de desarrollo como Jupyter Notebook o JupyterLab para realizar el análisis exploratorio de datos, documentar los pasos y visualizar los resultados de manera interactiva.
 
-Pandas y NumPy: Estas librerías de Python serán fundamentales para la manipulación y procesamiento de los datos, permitiendo realizar operaciones eficientes en estructuras de datos.
+-Pandas y NumPy: Estas librerías de Python serán fundamentales para la manipulación y procesamiento de los datos, permitiendo realizar operaciones eficientes en estructuras de datos.
 
-Matplotlib y Seaborn: Estas librerías serán utilizadas para la creación de gráficos y visualizaciones claras y efectivas, lo que ayudará a comunicar los resultados del análisis de manera visualmente atractiva.
+-Matplotlib y Seaborn: Estas librerías serán utilizadas para la creación de gráficos y visualizaciones claras y efectivas, lo que ayudará a comunicar los resultados del análisis de manera visualmente atractiva.
 
-pandas_profiling: Esta librería será útil para generar informes automáticos que proporcionan estadísticas y visualizaciones detalladas sobre los datos, complementando el análisis manual realizado.
+-Pandas_profiling: Esta librería será útil para generar informes automáticos que proporcionan estadísticas y visualizaciones detalladas sobre los datos, complementando el análisis manual realizado.
 
-Power BI/Tableau: Estas herramientas de visualización de datos permiten crear dashboards interactivos y profesionales. Pueden utilizarse para desarrollar un dashboard interactivo y visualizar los resultados obtenidos, facilitando la interpretación de la información.
+-Power BI/Tableau: Estas herramientas de visualización de datos permiten crear dashboards interactivos y profesionales. Pueden utilizarse para desarrollar un dashboard interactivo y visualizar los resultados obtenidos, facilitando la interpretación de la información.
 
-SQL: Para el desafío adicional de crear una base de datos en un motor SQL, se utilizará SQL para diseñar y gestionar la base de datos, así como para realizar consultas y análisis relacionados con los datos almacenados.
+-SQL: Para el desafío adicional de crear una base de datos en un motor SQL, se utilizará SQL para diseñar y gestionar la base de datos, así como para realizar consultas y análisis relacionados con los datos almacenados.
 
-Microsoft Excel: Para la lectura de los datos csv.
+-Microsoft Excel: Para la lectura de los datos csv.
 
-Git y GitHub: Estas herramientas serán utilizadas para el control de versiones del código y el almacenamiento del proyecto en un repositorio de GitHub, lo que facilitará la colaboración y el seguimiento de cambios.
+-Git y GitHub: Estas herramientas serán utilizadas para el control de versiones del código y el almacenamiento del proyecto en un repositorio de GitHub, lo que facilitará la colaboración y el seguimiento de cambios.
 
 </p>
 
