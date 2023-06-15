@@ -146,5 +146,30 @@ El objetivo general de este proyecto es analizar y segmentar el mercado de MOOCs
 
 -KPI 5: Tasa de retención de estudiantes. Es el porcentaje de estudiantes que continúan inscribiéndose en cursos después de su primer curso. Fórmula: (Número de estudiantes que se inscriben en más de un curso / Número total de estudiantes) * 100%. El objetivo podría ser aumentar este indicador en un 25% para fomentar una base de usuarios leales y recurrentes.
 
+# <h2 align='left'> 7. Recopilación y Exploración de los Datos</h2>
+
+El proyecto cuenta con los siguientes datasets:
+
+### df1 (Coursera_courses.csv):
+
+Columnas: name, institution, course_url, course_id.
+Contiene información sobre los cursos de Coursera, incluyendo el nombre, la institución, la URL y el ID del curso.
+
+### df2 (Coursera_reviews.csv):
+
+Columnas: reviews, reviewers, date_reviews, rating, course_id.
+Contiene reseñas de los cursos de Coursera, incluyendo el texto de la reseña, el nombre del revisor, la fecha de la reseña, la calificación y el ID del curso.
+
+### df3 (edx_courses.csv):
+
+Columnas: title, summary, n_enrolled, course_type, institution, instructors, Level, subject, language, subtitles, course_effort, course_length, price, course_description, course_syllabus, course_url.
+Contiene información sobre los cursos de edX, incluyendo el título, el resumen, el número de inscritos, el tipo de curso, la institución, los instructores, el nivel, el tema, el idioma, los subtítulos, el esfuerzo del curso, la duración, el precio, la descripción y el sílabo del curso, y la URL del curso.
+
+### df4 (udemy_courses.csv):
+
+Columnas: course_id, course_title, url, is_paid, price, num_subscribers, num_reviews, num_lectures, level, content_duration, published_timestamp, subject.
+Contiene información sobre los cursos de Udemy, incluyendo el ID del curso, el título, la URL, si es de pago, el precio, el número de suscriptores, el número de reseñas, el número de conferencias, el nivel, la duración del contenido, la fecha de publicación y el tema.
+En base a estos datasets, se realizará el análisis y se desarrollarán los KPIs propuestos para el proyecto.
+
 
 
