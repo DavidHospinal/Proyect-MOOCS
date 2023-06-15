@@ -18,7 +18,7 @@ En esta Parte mostraremos el  roadmap  que proporciona una visión general del p
 
 ## Roadmap del Proyecto:
 
-## 2.1 Definición de Objetivos:
+### 2.1 Definición de Objetivos:
 Comprender los datos adquiridos de los competidores y establecer los objetivos del proyecto.
 Identificar las métricas clave y los KPIs relevantes para evaluar el desempeño de la plataforma de cursos online.
 
