@@ -138,12 +138,13 @@ El objetivo general de este proyecto es analizar y segmentar el mercado de MOOCs
 
 #### Para el Objetivo Específico 2:
 
-KPI 3: Frecuencia de palabras clave en títulos: Es la cantidad de veces que aparece una palabra clave en los títulos de los cursos más vendidos. Fórmula: (Número de apariciones de una palabra clave / Número total de palabras en todos los títulos) * 100%. El objetivo sería aumentar este indicador en un 20% para las palabras clave relacionadas con los cursos más vendidos.
+-KPI 3: Frecuencia de palabras clave en títulos: Es la cantidad de veces que aparece una palabra clave en los títulos de los cursos más vendidos. Fórmula: (Número de apariciones de una palabra clave / Número total de palabras en todos los títulos) * 100%. El objetivo sería aumentar este indicador en un 20% para las palabras clave relacionadas con los cursos más vendidos.
 
 #### Para el Objetivo Específico 3:
 
-KPI 4: Tasa de conversión de inscriptos gratuitos a inscriptos pagados. Fórmula: (Número de inscriptos en cursos pagados / Número de inscriptos en cursos gratuitos) * 100%. El objetivo sería aumentar este indicador en un 15% en comparación con el año anterior.
-KPI 5: Tasa de retención de estudiantes. Es el porcentaje de estudiantes que continúan inscribiéndose en cursos después de su primer curso. Fórmula: (Número de estudiantes que se inscriben en más de un curso / Número total de estudiantes) * 100%. El objetivo podría ser aumentar este indicador en un 25% para fomentar una base de usuarios leales y recurrentes.
+-KPI 4: Tasa de conversión de inscriptos gratuitos a inscriptos pagados. Fórmula: (Número de inscriptos en cursos pagados / Número de inscriptos en cursos gratuitos) * 100%. El objetivo sería aumentar este indicador en un 15% en comparación con el año anterior.
+
+-KPI 5: Tasa de retención de estudiantes. Es el porcentaje de estudiantes que continúan inscribiéndose en cursos después de su primer curso. Fórmula: (Número de estudiantes que se inscriben en más de un curso / Número total de estudiantes) * 100%. El objetivo podría ser aumentar este indicador en un 25% para fomentar una base de usuarios leales y recurrentes.
 
 
 
