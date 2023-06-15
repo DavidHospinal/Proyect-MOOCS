@@ -67,7 +67,7 @@ Destacar el valor y la relevancia de los KPIs propuestos para la plataforma.
 Demostrar las funcionalidades del dashboard y explicar los hallazgos clave a través de visualizaciones interactivas.
 
 
-  # <h2 align="center">3. Background </h2>
+  # <h2 align="left">3. Background </h2>
   
   ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/6604e108-f511-4c74-b461-8109f80b8419)
 
@@ -75,7 +75,7 @@ Demostrar las funcionalidades del dashboard y explicar los hallazgos clave a tra
 El proyecto surge ante el interés de una startup de tecnología por ingresar al mercado de cursos online. Con el objetivo de desarrollar una estrategia eficiente, la empresa adquirió datasets de competidores para analizar y extraer conclusiones de los datos recolectados. El enfoque principal se centra en segmentar las ventas según variables como precio, idioma, nivel y rating de los cursos, con el fin de comprender cómo estas variables influyen en la demanda del producto. Además, se busca generar un Word Cloud de las palabras clave más recurrentes en los títulos de los cursos para identificar temáticas relevantes. Para monitorear el éxito de la empresa, se propone calcular la tasa de conversión de inscriptos gratuitos a inscriptos pagados como KPI principal, y se busca establecer otros tres KPIs adicionales relacionados con la historia que se está contando. El proyecto culminará con la creación de un dashboard interactivo y la presentación de análisis y conclusiones relevantes para optimizar las estrategias y lograr el éxito en el mercado competitivo de cursos online.
 </p>
 
-  # <h2 align="center">4. Problemática </h2>
+  # <h2 align="left">4. Problemática </h2>
 
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/146c0a81-5b74-46d8-9b7b-5ebd28951b32)
 
