@@ -54,7 +54,7 @@ Presentar de manera clara y efectiva los resultados del análisis, el Word Cloud
 Utilizar los insights obtenidos del análisis y las conclusiones para mejorar las estrategias de la plataforma.
 Proporcionar recomendaciones basadas en los hallazgos para captar y retener a más clientes en un mercado competitivo.
 
-### 2.9 Creación de Repositorio de GitHub:
+### 2.9 Creación de Versionamiento en Repositorio de GitHub:
 Configurar un repositorio en GitHub con una estructura adecuada.
 Documentar el proyecto en un Readme principal que incluya una descripción general, el contenido de cada archivo/carpeta y un informe de análisis basado en los dashboards y KPIs.
 
