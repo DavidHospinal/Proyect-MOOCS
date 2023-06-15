@@ -115,3 +115,35 @@ El stack tecnológico para el proyecto incluye las siguientes herramientas y tec
 
 </p>
 
+# <h2 align='left'> 6.Definición de la Solución</h2>
+
+## 6.1 Objetivos del Proyecto:
+
+### 6.1.1 Objetivo General:
+
+El objetivo general de este proyecto es analizar y segmentar el mercado de MOOCs para identificar las características de los cursos más vendidos y más atractivos para los estudiantes, con el fin de proporcionar a la startup una estrategia eficiente de entrada al mercado.
+
+### 6.1.2 Objetivos Específicos:
+
+1. Analizar el efecto del precio, el idioma, el nivel y el rating en las ventas de los cursos.
+2. Identificar las palabras clave más utilizadas en los títulos de los cursos más vendidos.
+3. Establecer y monitorear KPIs relevantes para evaluar la eficacia de los objetivos de la empresa.
+
+### 6.1.3 KPIs Relacionados con los Objetivos Específicos:
+
+#### Para el Objetivo Específico 1:
+
+-KPI 1: Índice de ventas por precio: Es el porcentaje de cambio en las ventas de los cursos con respecto a un cambio en su precio. Fórmula: ((Ventas finales - Ventas iniciales) / Ventas iniciales) * 100%. El objetivo sería mantener este indicador por debajo de un cierto umbral, digamos, un 10%, para asegurar que los cambios de precio no disminuyan demasiado las ventas.
+-KPI 2: Tasa de ventas por idioma: Es el porcentaje de cursos vendidos en cada idioma. Fórmula: (Número de cursos vendidos en un idioma / Número total de cursos vendidos) * 100%. El objetivo podría ser aumentar este indicador en un 15% para los cursos en idiomas no dominantes para diversificar la audiencia.
+
+#### Para el Objetivo Específico 2:
+
+KPI 3: Frecuencia de palabras clave en títulos: Es la cantidad de veces que aparece una palabra clave en los títulos de los cursos más vendidos. Fórmula: (Número de apariciones de una palabra clave / Número total de palabras en todos los títulos) * 100%. El objetivo sería aumentar este indicador en un 20% para las palabras clave relacionadas con los cursos más vendidos.
+
+#### Para el Objetivo Específico 3:
+
+KPI 4: Tasa de conversión de inscriptos gratuitos a inscriptos pagados. Fórmula: (Número de inscriptos en cursos pagados / Número de inscriptos en cursos gratuitos) * 100%. El objetivo sería aumentar este indicador en un 15% en comparación con el año anterior.
+KPI 5: Tasa de retención de estudiantes. Es el porcentaje de estudiantes que continúan inscribiéndose en cursos después de su primer curso. Fórmula: (Número de estudiantes que se inscriben en más de un curso / Número total de estudiantes) * 100%. El objetivo podría ser aumentar este indicador en un 25% para fomentar una base de usuarios leales y recurrentes.
+
+
+
