@@ -134,6 +134,7 @@ El objetivo general de este proyecto es analizar y segmentar el mercado de MOOCs
 #### Para el Objetivo Específico 1:
 
 -KPI 1: Índice de ventas por precio: Es el porcentaje de cambio en las ventas de los cursos con respecto a un cambio en su precio. Fórmula: ((Ventas finales - Ventas iniciales) / Ventas iniciales) * 100%. El objetivo sería mantener este indicador por debajo de un cierto umbral, digamos, un 10%, para asegurar que los cambios de precio no disminuyan demasiado las ventas.
+
 -KPI 2: Tasa de ventas por idioma: Es el porcentaje de cursos vendidos en cada idioma. Fórmula: (Número de cursos vendidos en un idioma / Número total de cursos vendidos) * 100%. El objetivo podría ser aumentar este indicador en un 15% para los cursos en idiomas no dominantes para diversificar la audiencia.
 
 #### Para el Objetivo Específico 2:
