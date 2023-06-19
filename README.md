@@ -172,5 +172,63 @@ Columnas: course_id, course_title, url, is_paid, price, num_subscribers, num_rev
 Contiene información sobre los cursos de Udemy, incluyendo el ID del curso, el título, la URL, si es de pago, el precio, el número de suscriptores, el número de reseñas, el número de conferencias, el nivel, la duración del contenido, la fecha de publicación y el tema.
 En base a estos datasets, se realizará el análisis y se desarrollarán los KPIs propuestos para el proyecto.
 
+# <h2 align='left'> 8.Análisis de Variables Relevantes</h2>
+
+<p align="justify">
+ 
+En el proyecto de análisis de Mooc, se realizaron diversas análisis de variables relevantes para comprender mejor el mercado y los cursos ofrecidos. Algunas de las variables analizadas fueron:
+
+Precio: Se investigó la relación entre el precio de los cursos y las ventas, utilizando indicadores como el índice de ventas por precio. Se encontró que los cambios en el precio tienen un impacto significativo en las ventas, y se estableció un umbral objetivo para evitar reducciones excesivas de ventas.
+
+Idioma: Se examinó la tasa de ventas por idioma para identificar patrones y diversificar la audiencia. Se estableció un objetivo para aumentar la tasa de ventas en idiomas no dominantes.
+
+Nivel y puntuación: Se analizó la influencia del nivel y la puntuación en las ventas de los cursos. Se encontró que los cursos con niveles más altos y puntuaciones más altas tienden a tener mayores ventas.
+
+Palabras clave en los títulos: Se identificaron las palabras clave más utilizadas en los títulos de los cursos más vendidos. Esto proporcionó información sobre las temáticas más populares y ayudó a destacar los cursos relevantes.
+
+Estos análisis permitieron comprender mejor el mercado de Mooc y proporcionaron información valiosa para tomar decisiones estratégicas. Además, se establecieron KPIs para evaluar la eficacia de los objetivos de la empresa, como la tasa de conversión de inscritos gratuitos a inscritos pagados y la tasa de retención de estudiantes. Estos KPIs ayudaron a medir el rendimiento y establecer metas para impulsar el crecimiento y la fidelización de los estudiantes.
+</p>
+### Coursera:
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/7871dbcb-a97e-4b91-bc23-f315783031ad)
+
+
+La matriz de correlación para el DataFrame Coursera muestra los coeficientes de correlación entre las columnas cantidad_ventas, rating, price y sales. Aquí hay una interpretación de los resultados:
+La columna cantidad_ventas tiene una correlación positiva moderada con la columna sales (coeficiente de correlación de 0.604). Esto sugiere que a medida que aumenta la cantidad de ventas, también tiende a aumentar el valor de las ventas.
+La columna rating muestra una correlación débil con sales y price, con coeficientes cercanos a cero. Esto indica que no hay una relación lineal fuerte entre las calificaciones y las ventas o los precios.
+ La columna price tiene una correlación positiva moderada con sales (coeficiente de correlación de 0.720). Esto sugiere que a medida que aumenta el precio, también tiende a aumentar el valor de las ventas.
+
+ ### Edx:
+
+ ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/de33c525-bc1f-451c-9eeb-85ac905ac7e8)
+
+
+La matriz de correlación que se muestra indica las correlaciones entre las variables en el DataFrame Edx Los valores de la matriz varían entre -1 y 1, donde 1 representa una correlación positiva perfecta, -1 representa una correlación negativa perfecta y 0 representa una falta de correlación.
+
+Algunas observaciones basadas en los valores de la matriz de correlación:
+
+La columna 'cantidad_alumnos' tiene una alta correlación positiva (0.88) con la columna 'sales', lo que indica que a medida que aumenta la cantidad de alumnos, también aumentan las ventas.
+La columna 'horas_x_semana' tiene una correlación moderada (0.31) con la columna 'price', lo que sugiere que puede haber una relación entre la cantidad de horas dedicadas por semana y el precio del curso.
+La columna 'price' tiene una correlación moderada (0.39) con la columna 'sales', lo que indica que a medida que aumenta el precio, también aumentan las ventas en cierta medida.
+La columna 'rating' tiene una correlación baja (0.13) tanto con 'sales' como con las otras variables, lo que sugiere que el rating no está fuertemente relacionado con las ventas u otras variables.
+Recuerda que la correlación no implica causalidad, es decir, no podemos concluir que un cambio en una variable causa directamente un cambio en otra. Es importante considerar otros factores y realizar un análisis más detallado para comprender mejor las relaciones entre las variables.
+
+ ### Undemy:
+
+ ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/0aead02d-6353-4c47-8ffa-3251d37322a1)
+
+ La columna "is_paid" tiene una correlación positiva moderada con la columna "price" (0.328910). Esto sugiere que hay una relación entre el precio de un curso y si es de pago o gratuito.
+
+La columna "num_subscribers" tiene una correlación positiva significativa con las columnas "sales" (0.543725) y "cantidad_ventas" (0.598293). Esto indica que el número de suscriptores de un curso está relacionado con las ventas y la cantidad de ventas.
+
+La columna "num_reviews" muestra una correlación fuerte con las columnas "sales" (0.846910) y "cantidad_ventas" (0.791335). Esto sugiere que la cantidad de revisiones de un curso está relacionada con las ventas y la cantidad de ventas.
+
+La columna "num_lectures" tiene una correlación positiva moderada con las columnas "price" (0.329944), "content_duration" (0.801624) y "sales" (0.315274). Esto indica que el número de conferencias de un curso está relacionado con el precio, la duración del contenido y las ventas.
+
+La columna "content_duration" muestra una correlación positiva fuerte con la columna "num_lectures" (0.801624). Esto sugiere que la duración del contenido de un curso está relacionada con el número de conferencias.
+
+La columna "rating" tiene correlaciones muy bajas con las otras columnas. Esto indica que no hay una relación significativa entre la calificación de un curso y las otras variables en el DataFrame.
+ 
+
 
 
