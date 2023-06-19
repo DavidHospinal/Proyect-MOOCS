@@ -188,10 +188,10 @@ Palabras clave en los títulos: Se identificaron las palabras clave más utiliza
 
 Estos análisis permitieron comprender mejor el mercado de Mooc y proporcionaron información valiosa para tomar decisiones estratégicas. Además, se establecieron KPIs para evaluar la eficacia de los objetivos de la empresa, como la tasa de conversión de inscritos gratuitos a inscritos pagados y la tasa de retención de estudiantes. Estos KPIs ayudaron a medir el rendimiento y establecer metas para impulsar el crecimiento y la fidelización de los estudiantes.
 </p>
-### Coursera:
+
+###  Coursera:
 
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/7871dbcb-a97e-4b91-bc23-f315783031ad)
-
 
 La matriz de correlación para el DataFrame Coursera muestra los coeficientes de correlación entre las columnas cantidad_ventas, rating, price y sales. Aquí hay una interpretación de los resultados:
 La columna cantidad_ventas tiene una correlación positiva moderada con la columna sales (coeficiente de correlación de 0.604). Esto sugiere que a medida que aumenta la cantidad de ventas, también tiende a aumentar el valor de las ventas.
@@ -228,6 +228,82 @@ La columna "num_lectures" tiene una correlación positiva moderada con las colum
 La columna "content_duration" muestra una correlación positiva fuerte con la columna "num_lectures" (0.801624). Esto sugiere que la duración del contenido de un curso está relacionada con el número de conferencias.
 
 La columna "rating" tiene correlaciones muy bajas con las otras columnas. Esto indica que no hay una relación significativa entre la calificación de un curso y las otras variables en el DataFrame.
+
+# <h2 align='left'> 9.Segmentación de Ventas</h2>
+
+<p align="justify">
+ 
+En el proyecto de análisis de Mooc, se realizó una segmentación de las ventas con el objetivo de identificar las características de los cursos más vendidos y comprender mejor las preferencias de los estudiantes. Algunos aspectos destacados de la segmentación de ventas son los siguientes:
+
+Segmentación por plataforma: Se analizaron las ventas de cursos en diferentes plataformas, como Coursera, Udemy y edX. Se examinaron las tendencias de ventas en cada plataforma y se identificaron las plataformas con mayor volumen de ventas.
+
+Segmentación por nivel: Se dividió la base de datos en diferentes niveles, como principiante, intermedio y avanzado. Se evaluaron las ventas en cada nivel y se identificaron los niveles que generaban más ventas.
+
+Segmentación por temática: Se analizó la distribución de ventas en diferentes temáticas de cursos, como programación, negocios, ciencias, etc. Se identificaron las temáticas más populares y se examinaron las tendencias de ventas en cada una.
+
+Segmentación por precio: Se realizaron análisis de ventas en diferentes rangos de precios para comprender cómo afecta el precio a las decisiones de compra de los estudiantes. Se identificaron los rangos de precios que generaban más ventas y se analizó la sensibilidad al precio.
+
+Estos análisis de segmentación de ventas permitieron identificar patrones y tendencias en las preferencias de los estudiantes, lo que a su vez ayudó a la empresa a enfocar sus esfuerzos de marketing y desarrollo de cursos en las áreas más demandadas. Además, la segmentación de ventas proporcionó información clave para la toma de decisiones estratégicas, como la expansión a nuevas plataformas, el desarrollo de cursos en temáticas populares y la optimización de precios para maximizar las ventas.
+</p>
+
+###  Coursera:
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/4580dad7-ab83-49a6-b8f0-7d69b7618b05)
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/0f1a2d7f-f35c-427c-87b3-2caf16a324b1)
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/a4a0080e-e28a-458a-8c3b-dde8585318ae)
+
+###  Edx:
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/b2586603-806f-40b0-8a46-8996fade4a52)
+
+###  Undemy:
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/0ec7b73b-af10-4ade-8e62-4cfe433a87b8)
+
+# <h2 align='left'> 10.Segmentación de Ventas</h2>
+
+<p align="justify">
+ En el proyecto de Mooc, se realizó la creación de un Word Cloud como parte del análisis de los títulos de los cursos más vendidos. El objetivo era identificar las palabras clave más utilizadas y destacadas en los títulos, lo que proporcionaría una visión general de los temas y enfoques populares en la plataforma.
+
+Para crear el Word Cloud, se realizaron los siguientes pasos:
+
+Extracción de los títulos de los cursos más vendidos: Se seleccionaron los cursos con mayores ventas y se extrajeron sus títulos de la columna correspondiente en el conjunto de datos.
+
+Limpieza y preprocesamiento de los títulos: Se realizaron tareas de limpieza de texto, como eliminación de puntuación, palabras irrelevantes y símbolos. Además, se llevaron todas las palabras a minúsculas para unificar el análisis.
+
+Conteo de palabras: Se realizó un recuento de la frecuencia de aparición de cada palabra en los títulos. Esto permitió identificar las palabras más comunes y relevantes.
+
+Creación del Word Cloud: Utilizando bibliotecas y herramientas de visualización de datos, se generó un Word Cloud a partir de los resultados del recuento de palabras. El tamaño y la prominencia de cada palabra en el Word Cloud representan su frecuencia de aparición en los títulos.
+
+El Word Cloud resultante ofreció una representación visual atractiva de las palabras clave más utilizadas en los títulos de los cursos más vendidos. Esto permitió identificar rápidamente las temáticas populares y las palabras que podrían atraer la atención de los estudiantes. Esta información fue de gran utilidad para el equipo de marketing y desarrollo de la plataforma, ya que les permitió enfocar sus esfuerzos en áreas de interés y tendencias actuales en el mercado de MOOCs.
+
+</p>
+
+###  Coursera:
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/125ef6c3-21bb-4b30-ae22-d9288f5b6dc4)
+
+
+###  Edx:
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/aa76f736-aaf6-43c1-9d3c-d1978dfb847b)
+
+###  Undemy:
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/e1306988-8f7c-4f91-84e1-29c58b49742b)
+
+
+
+
+
+
+
+
+
+
+
  
 
 
