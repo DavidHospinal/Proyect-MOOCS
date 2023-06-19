@@ -262,7 +262,7 @@ Estos análisis de segmentación de ventas permitieron identificar patrones y te
 
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/0ec7b73b-af10-4ade-8e62-4cfe433a87b8)
 
-# <h2 align='left'> 10.Segmentación de Ventas</h2>
+# <h2 align='left'> 10.Creación del Word Cloud</h2>
 
 <p align="justify">
  En el proyecto de Mooc, se realizó la creación de un Word Cloud como parte del análisis de los títulos de los cursos más vendidos. El objetivo era identificar las palabras clave más utilizadas y destacadas en los títulos, lo que proporcionaría una visión general de los temas y enfoques populares en la plataforma.
