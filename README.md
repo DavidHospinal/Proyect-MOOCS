@@ -133,16 +133,18 @@ El objetivo general de este proyecto es analizar y segmentar el mercado de MOOCs
 
 #### Para el Objetivo Específico 1:
 
--KPI 1: Índice de ventas por precio: Es el porcentaje de cambio en las ventas de los cursos con respecto a un cambio en su precio. Fórmula: ((Ventas finales - Ventas iniciales) / Ventas iniciales) * 100%. El objetivo sería mantener este indicador por debajo de un cierto umbral, digamos, un 10%, para asegurar que los cambios de precio no disminuyan demasiado las ventas.
-
 ##### - KPI 1: 
 El objetivo es aumentar la tasa de ventas en idiomas no dominantes en un 15%(1.15), específicamente en español y chino. 
 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/b779999d-0c7f-4824-a0f6-f01876c68ff6)
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/c9bd98a4-3cd2-44a9-8eb4-c7b5b5708c23)
 
 #### Para el Objetivo Específico 2:
 
--KPI 3: Frecuencia de palabras clave en títulos: Es la cantidad de veces que aparece una palabra clave en los títulos de los cursos más vendidos. Fórmula: (Número de apariciones de una palabra clave / Número total de palabras en todos los títulos) * 100%. El objetivo sería aumentar este indicador en un 20% para las palabras clave relacionadas con los cursos más vendidos.
+##### - KPI 2: 
+El objetivo sería aumentar este indicador en un 20%(1.2) para las palabras clave relacionadas con los cursos más vendidos.
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/9897146e-a641-4eb1-a440-0730ca4a675c)
+
 
 #### Para el Objetivo Específico 3:
 
@@ -319,6 +321,29 @@ En términos numéricos, esto significa aumentar la tasa de ventas en español(2
 
 
 El análisis del efecto idioma en las ventas de los cursos nos proporciona información valiosa para tomar acciones específicas y estratégicas orientadas a aumentar las ventas en idiomas no dominantes. Con un enfoque en la promoción y el desarrollo de cursos en español y chino, podemos trabajar hacia el objetivo de diversificar la audiencia y aprovechar nuevas oportunidades de mercado.
+</p>
+
+##### - KPI 2: 
+
+<p align="justify">
+El indicador se refiere a la frecuencia de palabras clave en los títulos de los cursos más vendidos. 
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/ee18d4b9-28d2-4f16-bfce-4a03af99a266)
+
+El resumen muestra las 10 palabras clave más frecuentes en los títulos de los cursos más vendidos, el valor actual del indicador (KPI 2), el aumento objetivo (Increase) y el objetivo final (Target) después de aumentar el indicador en un 20%.
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/d042ead5-6555-47eb-bbb7-cad1f3c0f19d)
+
+Por ejemplo, para la palabra clave "Programming", el valor actual del indicador es 0.74. El objetivo es aumentar este valor en un 20%, lo que resultaría en un objetivo final de 0.89. Esto significa que se debe incrementar la frecuencia de la palabra clave "Programming" en los títulos de los cursos más vendidos para alcanzar el objetivo establecido.
+
+El mismo análisis se realiza para las otras palabras clave en la lista, calculando el valor actual, el aumento objetivo y el objetivo final para cada una. El objetivo es aumentar la frecuencia de estas palabras clave para diversificar y mejorar la relevancia de los cursos más vendidos.
+
+El resumen proporciona una visión general de las palabras clave y los objetivos asociados, lo que permite identificar las áreas en las que se debe trabajar para mejorar la frecuencia de las palabras clave y alcanzar el objetivo establecido.
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/6f2ba222-e2eb-456c-bcb2-c4e682fe586f)
+
+
+
+
 </p>
 
 
