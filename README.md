@@ -305,11 +305,12 @@ El Word Cloud resultante ofreció una representación visual atractiva de las pa
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/d5db4760-52d1-4716-a2b3-2a3f15a1352a)
 
 <p align="justify">
-Según la estadística, actualmente tenemos un 5.47% de ventas en español y un 2.52% en chino, en comparación con el 81.72% de ventas en inglés. El objetivo propuesto es aumentar esta tasa en un 15% para diversificar la audiencia y aprovechar el potencial de los idiomas no dominantes.
+Según la estadística, actualmente tenemos un 5.47% de ventas en español y un 2.52% en chino, en comparación con el 81.72% de ventas en inglés. El objetivo propuesto es aumentar esta tasa en un 15%(1.15) para diversificar la audiencia y aprovechar el potencial de los idiomas no dominantes.
 
-En términos numéricos, esto significa aumentar la tasa de ventas en español y chino de 21.53 a 24.76. Para lograr esto, se requerirá un aumento de 3.23 en la tasa de ventas en estos idiomas. Este incremento nos permitirá llegar al objetivo propuesto y captar una mayor participación del mercado en los idiomas español y chino.
+En términos numéricos, esto significa aumentar la tasa de ventas en español(209.34 a 240.74) y chino(191.46 a 220.17). Para lograr esto, se requerirá un aumento de 31.4 y 28.71  en la tasa de ventas en estos idiomas respectivamente. Este incremento nos permitirá llegar al objetivo propuesto y captar una mayor participación del mercado en los idiomas español y chino.
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/a48242cf-279b-4064-96de-5f505e9c9e59)
 
-El análisis del efecto del precio, el idioma, el nivel y el rating en las ventas de los cursos nos proporciona información valiosa para tomar acciones específicas y estratégicas orientadas a aumentar las ventas en idiomas no dominantes. Con un enfoque en la promoción y el desarrollo de cursos en español y chino, podemos trabajar hacia el objetivo de diversificar la audiencia y aprovechar nuevas oportunidades de mercado.
+El análisis del efecto idioma en las ventas de los cursos nos proporciona información valiosa para tomar acciones específicas y estratégicas orientadas a aumentar las ventas en idiomas no dominantes. Con un enfoque en la promoción y el desarrollo de cursos en español y chino, podemos trabajar hacia el objetivo de diversificar la audiencia y aprovechar nuevas oportunidades de mercado.
 </p>
 
 
