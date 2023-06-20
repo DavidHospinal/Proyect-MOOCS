@@ -327,6 +327,7 @@ El análisis del efecto idioma en las ventas de los cursos nos proporciona infor
 
 <p align="justify">
 El indicador se refiere a la frecuencia de palabras clave en los títulos de los cursos más vendidos. 
+  
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/ee18d4b9-28d2-4f16-bfce-4a03af99a266)
 
 El resumen muestra las 10 palabras clave más frecuentes en los títulos de los cursos más vendidos, el valor actual del indicador (KPI 2), el aumento objetivo (Increase) y el objetivo final (Target) después de aumentar el indicador en un 20%.
@@ -339,9 +340,7 @@ El mismo análisis se realiza para las otras palabras clave en la lista, calcula
 
 El resumen proporciona una visión general de las palabras clave y los objetivos asociados, lo que permite identificar las áreas en las que se debe trabajar para mejorar la frecuencia de las palabras clave y alcanzar el objetivo establecido.
 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/6f2ba222-e2eb-456c-bcb2-c4e682fe586f)
-
-
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/ca2f9843-4aef-43c0-a8b7-20e27a66cbd7)
 
 
 </p>
