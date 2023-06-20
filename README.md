@@ -194,8 +194,8 @@ Estos análisis permitieron comprender mejor el mercado de Mooc y proporcionaron
 
 ###  Coursera:
 
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/f431f3a6-57ad-4a69-8180-7b7cd5ec520e)
 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/7871dbcb-a97e-4b91-bc23-f315783031ad)
 
 La matriz de correlación para el DataFrame Coursera muestra los coeficientes de correlación entre las columnas cantidad_ventas, rating, price y sales. Aquí hay una interpretación de los resultados:
 La columna cantidad_ventas tiene una correlación positiva moderada con la columna sales (coeficiente de correlación de 0.604). Esto sugiere que a medida que aumenta la cantidad de ventas, también tiende a aumentar el valor de las ventas.
@@ -204,7 +204,7 @@ La columna rating muestra una correlación débil con sales y price, con coefici
 
  ### Edx:
 
- ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/de33c525-bc1f-451c-9eeb-85ac905ac7e8)
+ ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/92466853-c23e-4c1d-a105-f41ac4f07dfa)
 
 
 La matriz de correlación que se muestra indica las correlaciones entre las variables en el DataFrame Edx Los valores de la matriz varían entre -1 y 1, donde 1 representa una correlación positiva perfecta, -1 representa una correlación negativa perfecta y 0 representa una falta de correlación.
@@ -219,7 +219,8 @@ Recuerda que la correlación no implica causalidad, es decir, no podemos conclui
 
  ### Undemy:
 
- ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/0aead02d-6353-4c47-8ffa-3251d37322a1)
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/300a6f5a-8227-44eb-b759-8705728efe1c)
+
 
  La columna "is_paid" tiene una correlación positiva moderada con la columna "price" (0.328910). Esto sugiere que hay una relación entre el precio de un curso y si es de pago o gratuito.
 
