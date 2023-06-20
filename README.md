@@ -194,6 +194,7 @@ Estos análisis permitieron comprender mejor el mercado de Mooc y proporcionaron
 
 ###  Coursera:
 
+
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/7871dbcb-a97e-4b91-bc23-f315783031ad)
 
 La matriz de correlación para el DataFrame Coursera muestra los coeficientes de correlación entre las columnas cantidad_ventas, rating, price y sales. Aquí hay una interpretación de los resultados:
