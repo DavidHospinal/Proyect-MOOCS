@@ -135,7 +135,7 @@ El objetivo general de este proyecto es analizar y segmentar el mercado de MOOCs
 
 -KPI 1: Índice de ventas por precio: Es el porcentaje de cambio en las ventas de los cursos con respecto a un cambio en su precio. Fórmula: ((Ventas finales - Ventas iniciales) / Ventas iniciales) * 100%. El objetivo sería mantener este indicador por debajo de un cierto umbral, digamos, un 10%, para asegurar que los cambios de precio no disminuyan demasiado las ventas.
 
-##### - KPI 2: 
+##### - KPI 1: 
 El objetivo es aumentar la tasa de ventas en idiomas no dominantes en un 15%(1.15), específicamente en español y chino. 
 
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/b779999d-0c7f-4824-a0f6-f01876c68ff6)
@@ -252,20 +252,22 @@ Estos análisis de segmentación de ventas permitieron identificar patrones y te
 </p>
 
 ###  Coursera:
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/3242c44e-443a-4ae6-bd51-9fc21a4cfe56)
 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/4580dad7-ab83-49a6-b8f0-7d69b7618b05)
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/dcd4bc24-9cb2-4bec-b2c8-9191ec2b81d7)
 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/0f1a2d7f-f35c-427c-87b3-2caf16a324b1)
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/9a1cca23-2f9c-4d88-acec-14748c9eb987)
 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/a4a0080e-e28a-458a-8c3b-dde8585318ae)
 
 ###  Edx:
 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/b2586603-806f-40b0-8a46-8996fade4a52)
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/d3c391a5-41ea-49d8-ab21-c77eae1efea1)
+
 
 ###  Undemy:
 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/0ec7b73b-af10-4ade-8e62-4cfe433a87b8)
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/2108e02e-5378-477f-9a7a-12e889ff3f64)
+
 
 # <h2 align='left'> 10.Creación del Word Cloud</h2>
 
@@ -288,28 +290,34 @@ El Word Cloud resultante ofreció una representación visual atractiva de las pa
 
 ###  Coursera:
 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/125ef6c3-21bb-4b30-ae22-d9288f5b6dc4)
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/72eda6d1-5542-4be0-a312-098b7c8246c5)
+
 
 
 ###  Edx:
 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/aa76f736-aaf6-43c1-9d3c-d1978dfb847b)
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/6a8c9d87-492e-4311-a711-5ce08107d3fb)
+
 
 ###  Undemy:
 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/e1306988-8f7c-4f91-84e1-29c58b49742b)
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/ef1c8693-5119-482b-b6b7-d5d445f5e5a6)
+
 
 # <h2 align='left'> 10. Definición y Análisis de KPIs </h2>
 
 
-##### - KPI 2: 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/d5db4760-52d1-4716-a2b3-2a3f15a1352a)
+##### - KPI 1: 
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/f5ad1d6d-0f41-4079-8148-dd9806d7d147)
 
 <p align="justify">
 Según la estadística, actualmente tenemos un 5.47% de ventas en español y un 2.52% en chino, en comparación con el 81.72% de ventas en inglés. El objetivo propuesto es aumentar esta tasa en un 15%(1.15) para diversificar la audiencia y aprovechar el potencial de los idiomas no dominantes.
 
 En términos numéricos, esto significa aumentar la tasa de ventas en español(209.34 a 240.74) y chino(191.46 a 220.17). Para lograr esto, se requerirá un aumento de 31.4 y 28.71  en la tasa de ventas en estos idiomas respectivamente. Este incremento nos permitirá llegar al objetivo propuesto y captar una mayor participación del mercado en los idiomas español y chino.
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/a48242cf-279b-4064-96de-5f505e9c9e59)
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/7c5cb0ff-0b0b-4704-a16d-2648a40dedd7)
+
 
 El análisis del efecto idioma en las ventas de los cursos nos proporciona información valiosa para tomar acciones específicas y estratégicas orientadas a aumentar las ventas en idiomas no dominantes. Con un enfoque en la promoción y el desarrollo de cursos en español y chino, podemos trabajar hacia el objetivo de diversificar la audiencia y aprovechar nuevas oportunidades de mercado.
 </p>
