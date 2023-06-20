@@ -293,7 +293,6 @@ El Word Cloud resultante ofreció una representación visual atractiva de las pa
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/72eda6d1-5542-4be0-a312-098b7c8246c5)
 
 
-
 ###  Edx:
 
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/6a8c9d87-492e-4311-a711-5ce08107d3fb)
@@ -304,7 +303,7 @@ El Word Cloud resultante ofreció una representación visual atractiva de las pa
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/ef1c8693-5119-482b-b6b7-d5d445f5e5a6)
 
 
-# <h2 align='left'> 10. Definición y Análisis de KPIs </h2>
+# <h2 align='left'> 11. Definición y Análisis de KPIs </h2>
 
 
 ##### - KPI 1: 
