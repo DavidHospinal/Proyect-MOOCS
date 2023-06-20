@@ -135,7 +135,7 @@ El objetivo general de este proyecto es analizar y segmentar el mercado de MOOCs
 
 -KPI 1: Índice de ventas por precio: Es el porcentaje de cambio en las ventas de los cursos con respecto a un cambio en su precio. Fórmula: ((Ventas finales - Ventas iniciales) / Ventas iniciales) * 100%. El objetivo sería mantener este indicador por debajo de un cierto umbral, digamos, un 10%, para asegurar que los cambios de precio no disminuyan demasiado las ventas.
 
-##### KPI 2: 
+##### - KPI 2: 
 El objetivo es aumentar la tasa de ventas en idiomas no dominantes en un 15%(1.15), específicamente en español y chino. 
 
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/6a69e21e-cd99-4da5-be80-e587bd64d6ce)
@@ -301,13 +301,16 @@ El Word Cloud resultante ofreció una representación visual atractiva de las pa
 # <h2 align='left'> 10. Definición y Análisis de KPIs </h2>
 
 
-##### KPI 2: 
+##### - KPI 2: 
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/d5db4760-52d1-4716-a2b3-2a3f15a1352a)
+
+<p align="justify">
 Según la estadística, actualmente tenemos un 5.47% de ventas en español y un 2.52% en chino, en comparación con el 81.72% de ventas en inglés. El objetivo propuesto es aumentar esta tasa en un 15% para diversificar la audiencia y aprovechar el potencial de los idiomas no dominantes.
 
 En términos numéricos, esto significa aumentar la tasa de ventas en español y chino de 21.53 a 24.76. Para lograr esto, se requerirá un aumento de 3.23 en la tasa de ventas en estos idiomas. Este incremento nos permitirá llegar al objetivo propuesto y captar una mayor participación del mercado en los idiomas español y chino.
 
 El análisis del efecto del precio, el idioma, el nivel y el rating en las ventas de los cursos nos proporciona información valiosa para tomar acciones específicas y estratégicas orientadas a aumentar las ventas en idiomas no dominantes. Con un enfoque en la promoción y el desarrollo de cursos en español y chino, podemos trabajar hacia el objetivo de diversificar la audiencia y aprovechar nuevas oportunidades de mercado.
+</p>
 
 
 
