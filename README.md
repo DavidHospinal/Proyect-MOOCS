@@ -138,8 +138,7 @@ El objetivo general de este proyecto es analizar y segmentar el mercado de MOOCs
 ##### - KPI 2: 
 El objetivo es aumentar la tasa de ventas en idiomas no dominantes en un 15%(1.15), específicamente en español y chino. 
 
-![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/6a69e21e-cd99-4da5-be80-e587bd64d6ce)
-
+![image]
 
 #### Para el Objetivo Específico 2:
 
