@@ -148,9 +148,13 @@ El objetivo sería aumentar este indicador en un 20%(1.2) para las palabras clav
 
 #### Para el Objetivo Específico 3:
 
--KPI 4: Tasa de conversión de inscriptos gratuitos a inscriptos pagados. Fórmula: (Número de inscriptos en cursos pagados / Número de inscriptos en cursos gratuitos) * 100%. El objetivo sería aumentar este indicador en un 15% en comparación con el año anterior.
+##### -KPI 3:
 
--KPI 5: Tasa de retención de estudiantes. Es el porcentaje de estudiantes que continúan inscribiéndose en cursos después de su primer curso. Fórmula: (Número de estudiantes que se inscriben en más de un curso / Número total de estudiantes) * 100%. El objetivo podría ser aumentar este indicador en un 25% para fomentar una base de usuarios leales y recurrentes.
+Tasa de conversión de inscriptos gratuitos a inscriptos pagados. Fórmula: (Número de inscriptos en cursos pagados / Número de inscriptos en cursos gratuitos) * 100%. 
+El objetivo sería aumentar este indicador en un 30% para los proximos 3 años(10% por año 2021,2022,2023) , calcular en base a ultimo año de nuestro dataset que es del 2020.
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/6244d010-f802-48b5-af05-b573a5a00e43)
+
 
 # <h2 align='left'> 7. Recopilación y Exploración de los Datos</h2>
 
@@ -342,6 +346,27 @@ El resumen proporciona una visión general de las palabras clave y los objetivos
 
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/ca2f9843-4aef-43c0-a8b7-20e27a66cbd7)
 
+
+</p>
+
+##### - KPI 3: 
+
+<p align="justify">
+Se calcula la tasa de conversión de inscriptos gratuitos(False) a inscriptos pagados(True) para el año 2020 y luego establece los objetivos para los próximos 3 años. Luego, crea un gráfico de líneas utilizando la biblioteca Plotly.js y muestra el gráfico en Power BI.
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/fbf38a8d-bcf4-4d20-a23c-6f3969682f77)
+
+El indicador de tasa de conversión de inscriptos gratuitos a inscriptos pagados muestra un valor inicial de 1795.37 en el año 2020. El objetivo es aumentar este indicador en un 30% en los próximos 3 años, con un incremento del 10% cada año.
+
+Según los cálculos realizados, se proyecta que la tasa de conversión aumente a 1974.907 en el año 2021, a 2172.3977 en el año 2022 y a 2389.63747 en el año 2023.
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/d76c7e1b-b08e-4618-84c7-d160f03f06a9)
+
+Este análisis indica que se espera un crecimiento significativo en la tasa de conversión de inscriptos gratuitos a pagados en los próximos años. El objetivo de aumentar este indicador en un 30% se lograría con éxito, ya que se proyecta un incremento por encima de ese porcentaje.
+
+![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/a18d4d27-c783-4106-89c1-a39291be2f28)
+
+Estos resultados son alentadores y sugieren que las estrategias implementadas para incentivar la conversión de inscritos gratuitos a pagados están teniendo un impacto positivo. Sin embargo, es importante seguir monitoreando y ajustando las estrategias en función de los resultados obtenidos para asegurar un crecimiento sostenido en la tasa de conversión.
 
 </p>
 
