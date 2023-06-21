@@ -1,4 +1,7 @@
   # <h1 align="center"> Análisis y Optimización de Estrategias en el Mercado de Cursos Online(MOOCS) </h1>
+
+  ![2023-06-20 22-31-05](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/2010175a-496f-4d02-b81d-1917552c00f7)
+
   
 <p align="justify">
 Los MOOCs (cursos masivos abiertos y online, por sus siglas en inglés) han revolucionado el mundo de la educación desde principios de la década pasada.
