@@ -370,11 +370,44 @@ Estos resultados son alentadores y sugieren que las estrategias implementadas pa
 
 </p>
 
+# <h2 align='left'> 12.Conclusiones y Recomendaciones </h2>
+
+<p align="justify">
+  Basado en el proyecto desarrollado para evaluar las plataformas de Coursera, Edx y Udemy en el contexto de los cursos en línea (MOOC), se han obtenido las siguientes conclusiones y recomendaciones:
+
+-Ventas por plataforma: Se observó que la plataforma con mayor cantidad de ventas fue Edx, seguida de Undemy y Coursera. Esto indica que Edx ha logrado posicionarse como una opción preferida para los estudiantes.
+
+-Tasa de ventas por idioma: El idioma predominante en los cursos vendidos fue el inglés, seguido por el español y el chino. Sin embargo, se identificó una oportunidad de crecimiento en los cursos en idiomas no dominantes, como el español y el chino, para diversificar la audiencia. Se recomienda enfocar esfuerzos en la promoción y desarrollo de cursos en estos idiomas.
+
+-Frecuencia de palabras clave en títulos: Se encontraron palabras clave recurrentes en los títulos de los cursos más vendidos, como programación, desarrollo, ciencia, entre otros. Esta información es útil para identificar las áreas de interés más populares entre los estudiantes y desarrollar cursos que se alineen con esas demandas.
+
+-Tasa de conversión de inscritos gratuitos a inscritos pagados: Se identificó un buen nivel de conversión de estudiantes gratuitos a estudiantes pagados en los cursos. Sin embargo, existe una oportunidad de mejora para aumentar esta tasa. Se recomienda implementar estrategias de marketing y promoción dirigidas a convertir a más estudiantes gratuitos en estudiantes pagados, como ofrecer descuentos exclusivos, contenido adicional o certificaciones.
+
+-Estrategias a futuro: Para seguir mejorando y creciendo en el mercado de MOOCs, se sugieren las siguientes estrategias:
+
+Ampliar la oferta de cursos en idiomas no dominantes para llegar a una audiencia más diversa y global.
+Realizar estudios de mercado y análisis de demanda para identificar nuevas áreas de interés y desarrollar cursos innovadores.
+Implementar programas de fidelización y retención de estudiantes para promover la repetición de cursos y la participación en programas de mayor duración.
+Mejorar la experiencia del usuario en las plataformas, ofreciendo una interfaz intuitiva, herramientas de colaboración y recursos de apoyo.
+Establecer alianzas estratégicas con instituciones educativas y empresas para ofrecer programas conjuntos y fortalecer la credibilidad de los cursos.
+En resumen, las conclusiones finales del proyecto indican que Coursera ha sido la plataforma líder en ventas, el inglés es el idioma más predominante y existen oportunidades de crecimiento en idiomas no dominantes. Además, se destaca la importancia de optimizar la tasa de conversión de inscritos gratuitos a inscritos pagados y se brindan recomendaciones y estrategias para seguir creciendo y mejorando en el mercado de MOOCs.
+</p>
 
 
+# Citación
+Por favor si usas la base de datos o el código, realizar la citación respectiva al autor. 
+```
+@article{Análisis y Optimización de Estrategias en el Mercado de Cursos Online},
+  Title = {MOOCS},
+  Authors = {Hospinal Roman, Oscar David },
+  Year = {2023}
+  University={HENRY}
+}
+```
+# Contacto 
+Para mas información por favor contactarse a:
 
-
-
+u202021214@upc.edu.pe(David Hospinal).
 
  
 
