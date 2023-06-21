@@ -393,7 +393,7 @@ Realizar estudios de mercado y análisis de demanda para identificar nuevas áre
 Implementar programas de fidelización y retención de estudiantes para promover la repetición de cursos y la participación en programas de mayor duración.
 Mejorar la experiencia del usuario en las plataformas, ofreciendo una interfaz intuitiva, herramientas de colaboración y recursos de apoyo.
 Establecer alianzas estratégicas con instituciones educativas y empresas para ofrecer programas conjuntos y fortalecer la credibilidad de los cursos.
-En resumen, las conclusiones finales del proyecto indican que Coursera ha sido la plataforma líder en ventas, el inglés es el idioma más predominante y existen oportunidades de crecimiento en idiomas no dominantes. Además, se destaca la importancia de optimizar la tasa de conversión de inscritos gratuitos a inscritos pagados y se brindan recomendaciones y estrategias para seguir creciendo y mejorando en el mercado de MOOCs.
+En resumen, las conclusiones finales del proyecto indican que Edx ha sido la plataforma líder en ventas, el inglés es el idioma más predominante y existen oportunidades de crecimiento en idiomas no dominantes. Además, se destaca la importancia de optimizar la tasa de conversión de inscritos gratuitos a inscritos pagados y se brindan recomendaciones y estrategias para seguir creciendo y mejorando en el mercado de MOOCs.
 </p>
 
 
