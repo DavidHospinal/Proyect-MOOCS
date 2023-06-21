@@ -1,0 +1,53 @@
+import pandas as pd
+from collections import Counter
+import nltk
+from nltk.corpus import stopwords
+import plotly.graph_objs as go
+
+nltk.download('stopwords')  # descarga las stopwords
+stop_words = set(stopwords.words('english'))  # define las stopwords
+additional_words = {"The", "-", "Complete", "&","Course","Introduction","de"}
+stop_words.update(additional_words)
+
+# Encontrar el 10% de los cursos con más ventas
+top_courses = dataset.nlargest(int(len(dataset)*0.1), 'Ventas')
+
+# Dividir los títulos en palabras y contar la frecuencia de cada palabra
+# Eliminar las stopwords
+words = [word for word in " ".join(top_courses["NombreCurso"]).split() if word not in stop_words]
+word_count = Counter(words)
+
+# Calcular el porcentaje de la frecuencia de cada palabra
+word_freq = {word: count / len(words) * 100 for word, count in word_count.items()}
+
+# Convertir a DataFrame
+df = pd.DataFrame.from_dict(word_freq, orient='index', columns=['Frecuencia'])
+
+# Calcular el objetivo
+df['Objetivo'] = df['Frecuencia'] * 1.2
+
+# Visualizar las 10 palabras clave más comunes
+top_keywords = df.nlargest(10, 'Frecuencia')
+
+# Define una lista de colores
+colors = ['rgba(93, 164, 214, 0.5)', 'rgba(255, 144, 14, 0.5)', 'rgba(44, 160, 101, 0.5)',
+          'rgba(255, 65, 54, 0.5)', 'rgba(207, 114, 255, 0.5)', 'rgba(127, 96, 0, 0.5)',
+          'rgba(229, 126, 56, 0.5)', 'rgba(229, 56, 56, 0.5)', 'rgba(229, 56, 151, 0.5)',
+          'rgba(176, 26, 26, 0.5)']
+
+# Crear gráfico
+fig = go.Figure(data=[
+    go.Bar(y=top_keywords.index, x=top_keywords.Frecuencia, orientation='h', 
+           hoverinfo='text',
+           text=['Frecuencia: %.2f%% <br>Objetivo: %.2f%%' % (f, o) for f, o in zip(top_keywords.Frecuencia, top_keywords.Objetivo)],
+           marker_color=colors)
+])
+
+fig.update_layout(
+    title='Frecuencia de palabras clave en títulos de los cursos más vendidos',
+    xaxis=dict(title='Frecuencia'),
+    yaxis=dict(title='Palabra clave'),
+    bargap=0.2,
+)
+
+fig.show()

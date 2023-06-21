@@ -1,0 +1,38 @@
+CREATE DATABASE MoocDatabase;
+USE MoocDatabase;
+DROP TABLE IF EXISTS MoocTable ;
+
+CREATE TABLE MoocTable (
+    NombreCurso VARCHAR(555),
+    CantidadVentas INT,
+    Institucion VARCHAR(255),
+    IdCurso VARCHAR(255),
+    FechaCurso DATE,
+    Puntuacion INT,
+    Precio DECIMAL(5,2),
+    Idioma VARCHAR(50),
+    Nivel VARCHAR(50),
+    Plataforma VARCHAR(50),
+    CursoPaga VARCHAR(5),
+    Tematica VARCHAR(255),
+    Ventas DECIMAL(50,2),
+    Año VARCHAR(25)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
+
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Mooc.csv' 
+INTO TABLE MoocTable
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"' 
+ESCAPED BY '' 
+LINES TERMINATED BY '\n' 
+IGNORE 1 ROWS  
+(NombreCurso, CantidadVentas, Institucion, IdCurso, @FechaCurso, Puntuacion, Precio, Idioma, Nivel, Plataforma, CursoPaga, Tematica, Ventas, Año)
+SET FechaCurso = NULLIF(@FechaCurso, '');
+
+
+SELECT * FROM MoocTable
+
+
+
+
+

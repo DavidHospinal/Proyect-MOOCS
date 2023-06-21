@@ -1,0 +1,32 @@
+import pandas as pd
+import plotly.graph_objs as go
+
+# Filtrar los datos por el año 2020
+dataset_2020 = dataset[dataset['Año'] == 2020]
+
+# Calcular el número de inscritos en cursos gratuitos y pagados en 2020
+inscritos_2020 = dataset_2020.groupby('CursoPaga')['CantidadVentas'].sum()
+inscritos_gratuitos_2020 = inscritos_2020[False]
+inscritos_pagados_2020 = inscritos_2020[True]
+
+# Calcular la tasa de conversión en 2020
+tasa_conversion_2020 = (inscritos_pagados_2020 / inscritos_gratuitos_2020) * 100
+
+# Calcular la tasa de conversión proyectada para los próximos 3 años (aumentando un 10% cada año)
+tasa_conversion_2021 = tasa_conversion_2020 * 1.1
+tasa_conversion_2022 = tasa_conversion_2021 * 1.1
+tasa_conversion_2023 = tasa_conversion_2022 * 1.1
+
+# Crear un gráfico de línea
+fig = go.Figure(data=go.Scatter(
+    x=[2020, 2021, 2022, 2023],
+    y=[tasa_conversion_2020, tasa_conversion_2021, tasa_conversion_2022, tasa_conversion_2023],
+    mode='lines+markers',
+    marker=dict(color='blue'),
+    line=dict(width=2)
+))
+
+fig.update_layout(title='Tasa de Conversión de Inscritos Gratuitos a Inscritos Pagados',
+                  xaxis_title='Año',
+                  yaxis_title='Tasa de Conversión (%)')
+fig.show()
