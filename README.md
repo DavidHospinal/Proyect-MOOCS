@@ -163,6 +163,9 @@ El objetivo sería aumentar este indicador en un 30% para los proximos 3 años(1
 
 El proyecto cuenta con los siguientes datasets:
 
+ .Versionamiento de los datasets: En este link encontrarás los versionamientos trabajados de los datasets a lo largo del proyecto[Click para su descarga--->]
+ [![Open In Kaggle](https://cdn.icon-icons.com/icons2/2699/PNG/96/kaggle_logo_icon_168474.png)](https://www.kaggle.com/datasets/davidhspinal/proyect-moocs/settings)
+
 ### df1 (Coursera_courses.csv):
 
 Columnas: name, institution, course_url, course_id.
