@@ -154,7 +154,8 @@ El objetivo sería aumentar este indicador en un 20%(1.2) para las palabras clav
 ##### -KPI 3:
 
 Tasa de conversión de inscriptos gratuitos a inscriptos pagados. Fórmula: (Número de inscriptos en cursos pagados / Número de inscriptos en cursos gratuitos) * 100%. 
-El objetivo sería aumentar este indicador en un 30% para los proximos 3 años(10% por año 2021,2022,2023) , calcular en base a ultimo año de nuestro dataset que es del 2020.
+El objetivo sería aumentar este indicador en un 10% por año durante los próximos 3 años.
+
 
 ![image](https://github.com/DavidHospinal/Proyect-MOOCS/assets/73408508/6244d010-f802-48b5-af05-b573a5a00e43)
 
